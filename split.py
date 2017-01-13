@@ -1,5 +1,4 @@
 '''
-
 This script is used to split given .gz file by chr. 
 @author Hetian Chen Mar 24 2015
 
